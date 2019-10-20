@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/goatandsheep/gatsby-wp-playground/issues"
   },
-  "homepage": "https://github.com/goatandsheep/gatsby-wp-playground#readme"
+  "homepage": "https://github.com/goatandsheep/gatsby-wp-playground#readme",
+  "dependencies": {
+    "gatsby-source-wordpress": "^3.1.43"
+  }
 }
