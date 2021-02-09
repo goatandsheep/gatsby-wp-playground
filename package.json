@@ -20,7 +20,7 @@
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-helmet": "^5.2.1",
-    "react-icons": "^3.7.0",
+    "react-icons": "^3.11.0",
     "react-typography": "^0.16.19",
     "typography": "^0.16.19",
     "typography-theme-wordpress-2013": "^0.16.19"
